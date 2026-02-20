@@ -1,0 +1,119 @@
+body {
+    background-color: #1a1a2e;
+    color: #e0e0e0;
+    font-family: Georgia, serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 47px;
+    color: #f5c518;
+}
+
+h2 {
+    font-size: 26px;
+    color: #f5c518;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.7;
+}
+
+ul {
+    padding-left: 20px;
+    line-height: 2;
+}
+
+a {
+    color: #f5c518;
+}
+
+a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+#main-header {
+    background-color: #0f0f1e;
+    text-align: center;
+    padding: 40px 20px;
+    border-bottom: 3px solid #f5c518;
+}
+
+#about {
+    background-color: #16213e;
+    padding: 30px 50px;
+}
+
+#cast {
+    background-color: #0f3460;
+    padding: 30px 50px;
+}
+
+#showtimes {
+    background-color: #16213e;
+    padding: 30px 50px;
+}
+
+#main-footer {
+    background-color: #0f0f1e;
+    text-align: center;
+    padding: 25px 20px;
+    border-top: 3px solid #f5c518;
+    font-size: 14px;
+    color: #aaaaaa;
+}
+
+.tagline {
+    font-style: italic;
+    font-size: 17px;
+    color: #cccccc;
+}
+
+.release-date {
+    font-size: 15px;
+    color: #f5c518;
+}
+
+.movie-poster {
+    width: 220px;
+    height: auto;
+    float: right;
+    margin: 0 0 15px 25px;
+    border: 3px solid #f5c518;
+}
+
+.character-name {
+    font-weight: bold;
+    color: #f5c518;
+}
+
+.social-link {
+    color: #aaaaaa;
+    margin: 0 5px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+
+th {
+    background-color: #f5c518;
+    color: #1a1a2e;
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #f5c518;
+}
+
+td {
+    padding: 10px;
+    border: 1px solid #555577;
+}
+
+tr:hover {
+    background-color: #0f3460;
+}
